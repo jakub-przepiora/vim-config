@@ -1,7 +1,6 @@
 set number!
-colorscheme delek
+colorscheme pablo
 syntax on
-colorscheme darkblue
 set laststatus=2
 set mouse=a
 set autoindent
