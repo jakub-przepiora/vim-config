@@ -1,0 +1,15 @@
+set number!
+colorscheme delek
+syntax on
+colorscheme darkblue
+set laststatus=2
+set mouse=a
+set autoindent
+
+inoremap " ""<left>
+inoremap ' ''<left>
+inoremap ( ()<left>
+inoremap [ []<left>
+inoremap { {}<left>
+inoremap {<CR> {<CR>}<ESC>O
+inoremap {;<CR> {<CR>};<ESC>O
