@@ -1,5 +1,5 @@
 set number!
-colorscheme pablo
+colorscheme delek
 syntax on
 set laststatus=2
 set mouse=a
